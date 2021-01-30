@@ -1,0 +1,2 @@
+C:\Users\do_ma\OneDrive\Desktop\C++\RockPaperScissors\Debug\RockPaperScissors.exe
+C:\Users\do_ma\OneDrive\Desktop\C++\RockPaperScissors\Debug\RockPaperScissors.pdb
